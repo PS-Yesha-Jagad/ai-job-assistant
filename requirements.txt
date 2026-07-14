@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+mcp
+ollama
+pymupdf
+pdfplumber
+spacy
+requests
+python-dotenv
+jinja2
+aiofiles
